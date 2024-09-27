@@ -1,5 +1,14 @@
-## ¡Hola! 👋
-## Hi there! 👋
+# Edú Sabando Barberán
+
+### 👨‍💻 Software Engineering Student | 🎹 Pianist | 🏋️ Fitness Enthusiast
+
+---
+
+### About Me
+
+¡Hola! Soy **Edú Sabando Barberán**, un estudiante de **Ingeniería de Software** en la **Universidad de Guayaquil**. Me encanta aprender nuevas tecnologías, mejorar mis habilidades de programación y siempre estoy buscando la manera de crecer tanto profesional como personalmente.
+
+---
 
 <!--
 **ESB2036/esb2036** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
