@@ -1,6 +1,6 @@
 # Edú Sabando Barberán
 
-### 👨‍💻 Software Engineering Student | 🎹 Pianist | 🏋️ Fitness Enthusiast
+### 👨‍💻 Software Engineering Student
 
 ---
 
