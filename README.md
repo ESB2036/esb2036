@@ -6,7 +6,7 @@
 
 ### About Me
 
-¡Hola! Soy **Edú Sabando Barberán**, un estudiante de **Ingeniería de Software** en la **Universidad de Guayaquil**. Me encanta aprender nuevas tecnologías, mejorar mis habilidades de programación y siempre estoy buscando la manera de crecer tanto profesional como personalmente.
+¡Hola! Soy **Edú Sabando Barberán**, un estudiante de **Ingeniería de Software**. Me encanta aprender nuevas tecnologías, mejorar mis habilidades de programación y siempre estoy buscando la manera de crecer tanto profesional como personalmente.
 
 ---
 
